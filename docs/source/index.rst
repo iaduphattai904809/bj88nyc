@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BJ88 – Chơi là mê, trúng là phê - bj88.nyc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BJ88 <https://bj88.nyc/>`_ là nhà cái trực tuyến chuyên về đá gà hàng đầu Việt Nam. BJ88 đá gà mang đến cho anh em cược thủ những trận tranh hùng kịch tính, hấp dẫn qua những màn livestream ấn tượng cùng tỷ lệ kèo cược cạnh tranh nhất thị trường.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 260/4A Lê Thị Hà, Tân Xuân, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0922084211. 
 
-Contents
---------
+Email: bj88.nyc@gmail.com. 
 
-.. toctree::
+Website: https://bj88.nyc/
 
-   usage
-   api
+#bj88 #nhacaibj88 #bj88daga #bj88_nyc
